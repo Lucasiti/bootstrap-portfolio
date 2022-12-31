@@ -1,0 +1,98 @@
+.navbar-brand{
+  color: white !important;
+}
+.navback {
+  background-color: #810338 !important;
+  color: white !important; 
+}
+.nav-link {
+  color: white !important;
+  font-weight: bold;
+}
+/*
+.nav-item {
+  text-decoration: none;
+  padding: 3px 3px;
+  color: white;
+  border: 1px solid #810338;
+  padding-bottom: 5px;
+  border-radius: 20px;
+  background-color: #fa056b;
+}
+*/
+.nav-item a:hover {
+  background-color: white;
+  color: #fa056b !important;
+}
+.navright {
+  justify-content: center;
+}
+.jumbotron {
+  background-image: url(../images/pic2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  height: calc(120vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+margin-bottom: 50px;
+}
+.jumboCopy {
+  width: 70%;
+  min-width: 500px;
+  max-width: 700px;
+  color: black;
+  text-align: center;
+}
+
+.portrait {
+  width: 50%;
+
+  margin-top: 150px;
+}
+.lead {
+  font-weight: 500;
+  padding-top: 10px !important;
+}
+.btn {
+background-color: #fa056b;
+border: #810338;
+border-radius: 20px;
+margin-top: 20px;
+}
+.btn:hover {
+  background-color: white;
+  color: #fa056b;
+  box-shadow: 0 5px 5px 0 rgba(0,0,0,0.24),0 10px 30px 0 rgba(0,0,0,0.19);
+} 
+.lead {
+ padding-top: 50px;
+ padding-left: 30px;
+ padding-right: 30px;
+}
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 50px;
+}
+.card-img-top {
+  height: 200px;
+}
+.card {
+  margin: 0.5em;
+}
+.projtitle {
+  text-align: center;  
+}
+.sa-section {
+  display: flex;
+  flex-direction: row;
+  padding: 80px;
+  background-color: #fa056b;
+  width: 100%;
+}
+.skills {
+ background-color: thistle;
+}
