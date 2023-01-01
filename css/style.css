@@ -89,10 +89,22 @@ margin-top: 20px;
 .sa-section {
   display: flex;
   flex-direction: row;
-  padding: 80px;
-  background-color: #fa056b;
-  width: 100%;
+  align-items: stretch;
+  padding: ;
 }
 .skills {
- background-color: thistle;
+background-color: rgba(216, 191, 216, 0.404);
+padding: 50px;
+}
+.about {
+  background-color: #fa056b2c;
+  padding: 50px;
+}
+footer {
+  background-color: #810338;
+  color: white;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  text-align: center;
 }
