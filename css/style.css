@@ -108,3 +108,12 @@ footer {
   padding-bottom: 15px;
   text-align: center;
 }
+.mail {
+  color: white;
+  font-weight: 600;
+}
+.mail:hover {
+  background-color: white;
+  color: #fa056b;
+  text-decoration: none;
+}
